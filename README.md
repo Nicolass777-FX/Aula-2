@@ -7,3 +7,5 @@ if KM >0 and L >0:
     print (result)
 else:
     print("Valor nas poder ser menor que 0.")
+Pode testar esta na garantia.
+;)
